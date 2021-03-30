@@ -7,10 +7,10 @@
 
 <p>
   <em>
-    <b>前端开发工程师</b> <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Developer.gif" width="30px"></br>
+    <b>高级前端开发工程师</b> <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Developer.gif" width="30px"></br>
     <b>Bilibili在职</b> <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Designer.gif" width="36px"></br>
     <b>曾经是一名Android开发</b> <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Rocket.gif" width="18px"></br>
-    <b>矢志进腾讯</b> <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Medal.gif" width="20px"> <br>
+    <b>破站药丸</b> <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Medal.gif" width="20px"> <br>
   </em>  
 </p>
 
